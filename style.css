@@ -1,0 +1,51 @@
+nav{
+    background-color: black;
+    color: azure
+}
+
+li,h1,ul{
+    display: inline-block;
+    padding-left: 70px;
+    cursor: pointer;
+
+}
+li:hover{
+    color:green;
+    
+}
+.one{
+    padding: 50px;
+    
+}
+input{
+    height: 50px;
+    width: 100%;
+    
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+}
+  .two{
+background-color: aqua;
+    height:200px ;
+    width: 170px;
+    margin: 60px;
+   border: 2px black solid;
+   
+    
+}.three{
+    background-color: aqua;
+    height:200px ;
+    width: 170px;margin: 60px;
+    border: 2px black solid;
+}
+.four{
+    background-color: aqua;
+    height:200px ;
+    width: 170px;margin: 60px;
+    border: 2px black solid;
+    
+
+}
